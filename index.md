@@ -11,22 +11,20 @@ nav_order: 1
 <tbody>
 <tr>
 <td>
-<p><b>This website is currently in an alpha phase</b>.</p>
+<p><b>This website is currently in an beta phase</b>.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-# Welcome to the Dataverse Curation Guide 
+# Welcome to the Alliance RDM Central 
 
-## What is this guide?
-This guide provides step-by-step instructions for curating new datasets deposited in Dataverse. Data curation deals with the active management of research data as it is created, maintained, used, archived, shared, and reused. The guide is framed around the acronym CURATION to provide an easy reminder for curators, especially those starting out, of the main steps in the curation process. This framework is adapted from the Data Curation Network’s [CURATED steps](https://datacurationnetwork.org/outputs/workflows/) for use in a bilingual context and is intended to outline and provide guidance on curation best practices in Dataverse. Data curation is not always a linear process; the type of data you are working with, your institutional policies or practices, your comfort level with curation, and the amount of time the researcher is able to dedicate to the process may require you to skip steps or complete the steps in a different order. You may also need to circle back and complete some of the steps a second time. The level of curation your institution is able to offer, given competing priorities and number of staff dedicated to the curation service, may also determine how many curation steps you can complete. 
+## What is this website for?
 
-Our Guide acknowledges there is no “one size fits all” model to data curation. The level and quality of curation is dependent on local resourcing, capacity, policies, priorities, and institutional strategic direction. As a result, the Guide has been developed with flexibility in mind. It can be used by new or experienced curators within academic institutions of all sizes, and it can be adapted by institutions to meet the needs of local policies and procedures.
+This website has resources for all things RDM - Curation, Preservation, Data Management Plans, Sensitive Data, and many more. It has content developed by Alliance RDM teams, Network of Experts, and include but not limited to resources developed by Portage Network for researchers and research data management community.
 
 ## How to use it? 
-* Read the [instruction pages](instructions) to learn how to apply this guide based on your institution's service level and capacity. 
-* Head to the [guide](curation) to apply the CURATION workflow to curating data sets in Dataverse.
+* Refer to the menu and select the topic you are interested in to visit the dedicated page
 
 <!--
 <table style="background-color: #ffff99;">
@@ -40,6 +38,10 @@ Our Guide acknowledges there is no “one size fits all” model to data curatio
 </tbody>
 </table>
 Introduction 
-This guide provides step-by-step instructions for curating new datasets deposited in Dataverse. Data curation deals with the active management of research data as it is created, maintained, used, archived, shared, and reused. The guide is framed around the acronym CURATION to provide an easy reminder for curators, especially those starting out, of the main steps in the curation process. This framework is adapted from the Data Curation Network’s CURATED steps for use in a bilingual context and is intended to outline and provide guidance on curation best practices in Dataverse. Data curation is not always a linear process; the type of data you are working with, your institutional policies or practices, your comfort level with curation, and the amount of time the researcher is able to dedicate to the process may require you to skip steps or complete the steps in a different order. You may also need to circle back and complete some of the steps a second time. The level of curation your institution is able to offer, given competing priorities and number of staff dedicated to the curation service, may also determine how many curation steps you can complete. 
-Our Guide acknowledges there is no “one size fits all” model to data curation. The level and quality of curation is dependent on local resourcing, capacity, policies, priorities, and institutional strategic direction. As a result, the Guide has been developed with flexibility in mind. It can be used by new or experienced curators within academic institutions of all sizes, and it can be adapted by institutions to meet the needs of local policies and procedures.
+
+Lorem ipsum dolor sit amet. Et ipsam fugiat aut repudiandae velit et alias dolor et enim voluptatem qui voluptatem tempore quo itaque accusamus. Non exercitationem dignissimos aut quod voluptatem vel suscipit vero aut Quis officiis quo itaque omnis est quia iste non sint sapiente.
+
+Ut eligendi esse qui quidem itaque in impedit suscipit. Qui nobis reprehenderit et numquam omnis cum obcaecati blanditiis est voluptas beatae vel pariatur asperiores. Ut quis nobis et velit consequatur eum deleniti nihil et eaque minus vel maiores similique ut molestias voluptas ut obcaecati similique. Et internos quia eum culpa molestiae eos sunt obcaecati est consequatur nihil sit voluptates.
+
+In voluptate et quia voluptatem et dolores aspernatur est neque dolor qui illum voluptatem et nihil voluptate cum nihil architecto. Quo excepturi dolorem sed iusto totam et odit saepe. 33 saepe obcaecati qui rerum tempore ut rerum quia sit atque sunt. Aut sint quia ea odit dolorem sed minima alias aut quia enim aut temporibus et ipsam repudiandae.
 -->
