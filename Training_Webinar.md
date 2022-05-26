@@ -5,7 +5,7 @@ description: "Presentations and Webinars"
 lang: en
 ref: include
 nav_order: 1
-parent: Training
+parent: TRAINING
 ---
 
 <table style="background-color: #ffff99;">
