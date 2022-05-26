@@ -5,6 +5,7 @@ description: "Training and useful resources"
 lang: en
 ref: Training Resources
 nav_order: 5
+has_children: true
 ---
 
 <table style="background-color: #ffff99;">
