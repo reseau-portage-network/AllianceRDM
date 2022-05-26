@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Webinars
 description: "Presentations and Webinars"
 lang: en
