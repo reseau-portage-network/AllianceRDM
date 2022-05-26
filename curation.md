@@ -3,7 +3,7 @@ layout: home
 title: Curation
 description: "Curation Resources"
 lang: en
-ref: home
+ref: Curation
 nav_order: 2
 ---
 
@@ -17,7 +17,13 @@ nav_order: 2
 </tbody>
 </table>
 
-# Welcome to the Alliance RDM Curation page
+# Welcome to Curation 
+
+Lorem ipsum dolor sit amet. Et ipsam fugiat aut repudiandae velit et alias dolor et enim voluptatem qui voluptatem tempore quo itaque accusamus. Non exercitationem dignissimos aut quod voluptatem vel suscipit vero aut Quis officiis quo itaque omnis est quia iste non sint sapiente.
+
+Ut eligendi esse qui quidem itaque in impedit suscipit. Qui nobis reprehenderit et numquam omnis cum obcaecati blanditiis est voluptas beatae vel pariatur asperiores. Ut quis nobis et velit consequatur eum deleniti nihil et eaque minus vel maiores similique ut molestias voluptas ut obcaecati similique. Et internos quia eum culpa molestiae eos sunt obcaecati est consequatur nihil sit voluptates.
+
+In voluptate et quia voluptatem et dolores aspernatur est neque dolor qui illum voluptatem et nihil voluptate cum nihil architecto. Quo excepturi dolorem sed iusto totam et odit saepe. 33 saepe obcaecati qui rerum tempore ut rerum quia sit atque sunt. Aut sint quia ea odit dolorem sed minima alias aut quia enim aut temporibus et ipsam repudiandae.
 
 
 <!--
@@ -32,10 +38,4 @@ nav_order: 2
 </tbody>
 </table>
 Introduction 
-
-Lorem ipsum dolor sit amet. Et ipsam fugiat aut repudiandae velit et alias dolor et enim voluptatem qui voluptatem tempore quo itaque accusamus. Non exercitationem dignissimos aut quod voluptatem vel suscipit vero aut Quis officiis quo itaque omnis est quia iste non sint sapiente.
-
-Ut eligendi esse qui quidem itaque in impedit suscipit. Qui nobis reprehenderit et numquam omnis cum obcaecati blanditiis est voluptas beatae vel pariatur asperiores. Ut quis nobis et velit consequatur eum deleniti nihil et eaque minus vel maiores similique ut molestias voluptas ut obcaecati similique. Et internos quia eum culpa molestiae eos sunt obcaecati est consequatur nihil sit voluptates.
-
-In voluptate et quia voluptatem et dolores aspernatur est neque dolor qui illum voluptatem et nihil voluptate cum nihil architecto. Quo excepturi dolorem sed iusto totam et odit saepe. 33 saepe obcaecati qui rerum tempore ut rerum quia sit atque sunt. Aut sint quia ea odit dolorem sed minima alias aut quia enim aut temporibus et ipsam repudiandae.
 -->
