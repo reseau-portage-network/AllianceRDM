@@ -5,7 +5,7 @@ subtitle: A place for all resources pertaining to RDM
 
 remote_theme: just-the-docs/just-the-docs
 colour_scheme: light 
-#logo: /assets/img/Alliance bilingual logos/Alliance_logo_English-first.png
+logo: /assets/img/Alliance bilingual logos/Alliance_logo_English-first.png
 search_enabled: true
 heading_anchors: true
 
