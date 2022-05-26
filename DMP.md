@@ -3,7 +3,7 @@ layout: home
 title: Data Management Planning
 description: "DMP Resources"
 lang: en
-ref: home
+ref: Data Management Planning
 nav_order: 3
 ---
 
@@ -11,7 +11,7 @@ nav_order: 3
 <tbody>
 <tr>
 <td>
-<p><b>This website is currently in an alpha phase</b>.</p>
+<p><b>This website is currently in an beta phase</b>.</p>
 </td>
 </tr>
 </tbody>
