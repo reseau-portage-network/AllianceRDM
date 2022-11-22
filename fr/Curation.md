@@ -1,6 +1,6 @@
 ---
 layout: page
-title: La Curation
+title: Curation des données
 description: "page de conservation"
 lang: fr
 ref: Curation
@@ -17,7 +17,7 @@ nav_order: 2
 </tbody>
 </table>
 
-# Welcome to Curation 
+# Bienvenue à la planification de la gestion des données 
 
 
 En français
