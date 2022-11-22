@@ -1,1 +1,33 @@
+# enables english and french navigation for the site
 
+languages:
+- language: "en"
+  opposite: "fr"
+  name: "Alliance RDM Central"
+  home: "home"
+  url: /en
+  links:
+    - title: "Curation"
+      url: /en/Curation/
+    - title: "Preservation"
+      url: /en/Preservation/
+    - title: "Data Management Planning"
+      url: /en/DMP/
+    - title: "Training Resources"
+      url: /en/Training Resources/
+  #  - title: "Français"
+  #    url: /fr/
+- language: "fr"
+  opposite: "en"
+  name: "Centrale RDM de l'Alliance"
+  home: "accueil"
+  url: /fr
+  links:
+    - title: "Curation des données"
+      url: /fr/fr_Curation/
+    - title: "Planification de la gestion des données"
+      url: /fr/fr_DMP/
+    - title: "Préservation des données"
+      url: /fr/fr_preservation/
+  #  - title: "English"
+  #    url: /en/
