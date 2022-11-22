@@ -1,6 +1,6 @@
 ---
 layout: page
-title: préservation
+title: Préservation des données
 description: "page de conservation"
 lang: fr
 ref: Preservation
@@ -17,7 +17,7 @@ nav_order: 4
 </tbody>
 </table>
 
-# Welcome to Preservation 
+# Bienvenue à la préservation des données
 
 En français
 Maître Corbeau, sur un arbre perché,
