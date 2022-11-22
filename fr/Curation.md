@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curation
+title: La Curation
 description: "page de conservation"
 lang: fr
 ref: Curation
