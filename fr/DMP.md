@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Management Planning
+title: Planification de la gestion des données
 description: "DMP Resources"
 lang: fr
 ref: Data Management Planning
@@ -17,7 +17,7 @@ nav_order: 3
 </tbody>
 </table>
 
-# Welcome to DMP Guide
+# Bienvenue à la planification de la gestion des données
 
 
 En français
