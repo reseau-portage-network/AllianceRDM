@@ -1,9 +1,9 @@
-# enables english and french navigation for the site
+e# enables english and french navigation for the site
 
 languages:
 - language: "en"
   opposite: "fr"
-  name: "Alliance RDM Central"
+  name: "Alliance RDM Template"
   home: "home"
   url: /en
   links:
