@@ -3,7 +3,7 @@ layout: home
 title: Training Resources
 description: "Training and useful resources"
 lang: en
-ref: Training Resources
+lang-ref: Training Resources
 nav_order: 5
 has_children: true
 ---
