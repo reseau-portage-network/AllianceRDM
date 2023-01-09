@@ -3,7 +3,7 @@ layout: home
 title: Webinars
 description: "Presentations and Webinars"
 lang: en
-ref: Webinars
+lang-ref: Webinars
 nav_order: 1
 parent: Training Resources
 ---
