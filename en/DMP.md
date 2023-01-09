@@ -3,7 +3,7 @@ layout: home
 title: Data Management Planning
 description: "DMP Resources"
 lang: en
-ref: Data Management Planning
+lang-ref: Data Management Planning
 nav_order: 3
 ---
 
