@@ -3,7 +3,7 @@ layout: home
 title: Home
 description: "Home page"
 lang: en
-lang-ref: home
+lang-ref: Home
 nav_order: 1
 ---
 
