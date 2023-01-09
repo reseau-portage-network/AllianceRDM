@@ -3,7 +3,7 @@ layout: home
 title: Curation
 description: "Curation Resources"
 lang: en
-ref: Curation
+lang-ref: Curation
 nav_order: 2
 ---
 
