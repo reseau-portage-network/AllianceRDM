@@ -2,8 +2,7 @@
 layout: page
 title: Planification de la gestion des données
 description: "DMP Resources"
-lang: fr
-ref: Data Management Planning
+lang: frPlanification de la gestion des donnéesData Management Planning
 nav_order: 3
 ---
 
