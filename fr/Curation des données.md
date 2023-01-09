@@ -3,7 +3,7 @@ layout: page
 title: Curation des données
 description: "page de conservation"
 lang: fr
-lang-ref: Curation des données
+lang-ref: Curation
 nav_order: 2
 ---
 
