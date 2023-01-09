@@ -3,7 +3,7 @@ layout: page
 title: Préservation des données
 description: "page de conservation"
 lang: fr
-lang-ref: Préservation des données
+lang-ref: Preservation
 nav_order: 4
 ---
 
