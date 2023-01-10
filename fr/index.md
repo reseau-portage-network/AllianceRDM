@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Home
+title: Domicile
 description: "Home page"
-lang: en
+lang: fr
 lang-ref: Home
 nav_order: 1
 ---
