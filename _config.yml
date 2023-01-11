@@ -21,10 +21,10 @@ back_to_top_text: "Back to top"
 
 # Site settings
 
-#title_en: Alliance RDM Central
-#title_fr: Centrale RDM de l'Alliance
-#author: Alliance RDM
-#baseurl: /alliancerdm
+title_en: Alliance RDM Central
+title_fr: Centrale RDM de l'Alliance
+author: Alliance RDM
+baseurl: /alliancerdm
 #url: "https://reseau-portage-network.github.io"
 #email: "portage@carl-abrc.ca"#
 # Footer last edited timestamp
