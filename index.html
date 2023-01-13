@@ -1,23 +1,19 @@
+
 ---
-layout: splash
+layout: home
+title: Home
 ---
 
-<div>
+<h1>Select Your Language</h1>
+{% for lang in site.data.languages %}
+  {% assign langCode = lang[0] %}
+  {% if langCode == 'en' %}{% continue %}{% endif %}
+  <em>{{ site.data.translations.selectLang[langCode] }}</em><br />
+{% endfor %}
 
-<h1>
-{{ site.title_en }}
-</h1>
-
-<p>
-<br>
-<a href="{{ site.url}}/en/">English</a>
-|
-<a href="{{ site.url }}/fr/">Français</a>
-</p>
-<br>
-  
-<h1>
-{{ site.title_fr }}
-</h1>
-
-</div>
+<ul class="languages">
+{% for lang in site.data.languages %}
+{% assign language = lang[1] %}
+<li><a href="/{{lang[0]}}">{{language.icon}} {{ language.label }} ({{ lang[0] }})</a></li>
+{% endfor %}
+</ul>
